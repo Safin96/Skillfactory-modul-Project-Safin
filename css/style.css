@@ -19,6 +19,9 @@ body * {
     padding: 13px 33px;
     color: white;
 }
+.button:hover{
+    background: #8B4513;
+}
 .title{
     font-family: 'Yeseva One';
     font-style: normal;
