@@ -539,12 +539,12 @@ body * {
 .list-card-our{
     list-style: url('../img/lap.svg') outside;
     position: relative;
-    top: 5px;
+    top: 55px;
     left: 120px;
 }
 .our1{
     max-width: 316px;
-    height: 70px;
+    height: 80px;
     font-size: 14px;
     line-height: 19px;
 
